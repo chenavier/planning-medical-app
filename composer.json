@@ -1,0 +1,8 @@
+{
+  "name": "medical-planning",
+  "description": "Application PHP/MySQL de planification médicale avancée",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  }
+}
